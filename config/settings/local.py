@@ -12,6 +12,7 @@ ALLOWED_HOSTS = [
     "localhost",
     "0.0.0.0",
     "127.0.0.1",
+    "ec2-54-76-160-5.eu-west-1.compute.amazonaws.com",
 ]
 
 # CACHES
